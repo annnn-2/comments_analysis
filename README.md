@@ -1,1 +1,1 @@
-# diplom
+# reddit comments analysis
